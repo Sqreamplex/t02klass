@@ -16,6 +16,6 @@ public class Tsilinder{
 		return 2*Math.PI*r*h;
 	}
 	public double taispindala(){
-		return 2*pindala()+kulgpindala();
+		return 2*pindala()+kulgpindala(); 
 	}
 }
